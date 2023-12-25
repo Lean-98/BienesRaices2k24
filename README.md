@@ -12,8 +12,8 @@ El sitio web no solo es atractiva visualmente, sino que también ofrece una expe
 
 ## Demo 
 
-- LIVE-Frontend -> [BienesRaices2k24](https://bienes-raices-2k24.netlify.app/)
-
+- LIVE-Frontend -> [BienesRaices2k24](https://bienes-raices-2k24.netlify.app/)  
+- LIVE-Frontend -> [BienesRaices2k24](https://bienes-raices2k24.vercel.app/)
 
 ## Tech Stack
 
